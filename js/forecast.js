@@ -1,8 +1,5 @@
-// const KEY = '96b947a45d33d7dc1c49af3203966408'
-// bu mening kalitim. Agar o'zingiz olsangiz va ishlamasa buni ishlating.
-// Agar ishlamay qolsa unda 1 soatda so'rovlar soni limitdan oshib ketgan bo'ladi.
-// Aloqa: Telegram => @akror_web
-const KEY = '24846b9cab408cf3f134fce321d4df95'
+ const KEY = '96b947a45d33d7dc1c49af3203966408'
+
 
 // request get data
 
